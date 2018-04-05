@@ -75,7 +75,7 @@
                   <?php elseif ( $bodyclass == 'exhibits summary'): ?>
                       <p><span class="exhibit-title"><?php echo $title; ?></span></p>
                   <?php else:?>
-                      <p><?php echo __("Religion, culture and society<br><span>Heritage online</span>"); ?></p>
+                      <p><?php echo __("<span>Retopea</span>"); ?></p>
                   <?php endif; ?>
                 </div>
               </div>
