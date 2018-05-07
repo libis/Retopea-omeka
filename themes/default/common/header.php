@@ -49,9 +49,9 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <?php echo public_nav_main_bootstrap();?>
-              <span class="navbar-text">
+              <!--<span class="navbar-text">
                 <?php echo multi_language_nav();?>
-              </span>
+              </span>-->
               <form class="form-inline my-2 my-lg-0" action="<?php echo url("search");?>">
                 <input id="query" name="query" class="form-control" type="search" placeholder="Search" aria-label="Search">
                 <input name="query_type" value="keyword" id="query_type" type="hidden">

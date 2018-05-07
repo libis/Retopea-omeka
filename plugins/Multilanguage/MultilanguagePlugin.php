@@ -70,8 +70,8 @@ class MultilanguagePlugin extends Omeka_Plugin_AbstractPlugin
     public function filterLocale($locale)
     {
         //setdefault
-        $defaultCodes = "nl_BE";
-        $this->locale_code = "nl_BE";
+        $defaultCodes = "en_US";
+        $this->locale_code = "en_US";
 
         //check session
         $langNamespace = new Zend_Session_Namespace('lang');
