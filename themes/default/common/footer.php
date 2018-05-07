@@ -12,11 +12,8 @@
             <div id="footer-text">
               <div class="footer-row">
                 <div class="col-content">
-                  <a href="https://kadoc.kuleuven.be/<?php echo $english;?>"><img src="<?php echo img("kadoc.PNG");?>"></a>
-                  <img src="<?php echo img("ErkendCultArch.jpg");?>">
-                  <img src="<?php echo img("_erkendeerfbib.gif");?>">
-                  <a href="http://www.ditisvlaanderen.be/"><img src="<?php echo img("vlaanderen.png");?>"></a>
-                  <a href="http://libis.be/"><img src="<?php echo img("libis_gray.png");?>"></a>
+                  <a href="https://kuleuven.be/<?php echo $english;?>"><img src="<?php echo img("kuleuven.PNG");?>"></a>
+                <a href="http://libis.be/"><img src="<?php echo img("libis_gray.png");?>"></a>
                 </div>
               </div>
             </div>

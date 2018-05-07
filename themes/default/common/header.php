@@ -75,7 +75,7 @@
                   <?php elseif ( $bodyclass == 'exhibits summary'): ?>
                       <p><span class="exhibit-title"><?php echo $title; ?></span></p>
                   <?php else:?>
-                      <p><?php echo __("<span>Retopea</span>"); ?></p>
+                      <p><?php echo __("<span>Retopea.</span><br> Religious Toleration and Peace"); ?></p>
                   <?php endif; ?>
                 </div>
               </div>

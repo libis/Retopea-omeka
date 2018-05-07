@@ -8263,9 +8263,9 @@ header {
 .co h2 {
   font-family: "Roboto", sans-serif;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 400;
   font-size: 1.3rem;
-  margin-bottom: 0.8rem;
+  margin: 0.8rem 0;
   color: #703139;
 }
 
@@ -8299,10 +8299,13 @@ header {
 
 .co .block-link {
   color: #343a40;
+  border-bottom: 1px solid rgba(112, 49, 57, 0.2);
 }
 
 .co .col-content {
   padding-bottom: 1.5rem;
+  height: 250px;
+  overflow: hidden;
 }
 
 .co .col-content img {
