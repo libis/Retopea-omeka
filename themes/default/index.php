@@ -37,9 +37,11 @@
             <h2><a class="block-link" href="<?php echo url("items/browse?tags=peace+treaties&sort_field=Dublin+Core%2CTitle");?>"><?php echo __('Peace treaties');?></a></h2>
         </div>
         <div class="co col-md-6 col-sm-6 col-lg-4">
-            <!--<div class="col-content">
+            <div class="col-content">
               <a class="block-link" href=""><img src="<?php echo img('placeholder6.jpg');?>"></a>
-            </div>-->
+            </div>
+            <h2><a class="block-link" href="<?php echo url("items/browse?tags=peace+treaties&sort_field=Dublin+Core%2CTitle");?>"><?php echo __('Title X');?></a></h2>
+
           </div>
       </div>
     </div>
