@@ -12,9 +12,14 @@
             <div id="footer-text">
               <div class="footer-row">
                 <div class="col-content">
+                  <img src="<?php echo img("retopea.png");?>">
                   <a href="https://kuleuven.be/<?php echo $english;?>"><img src="<?php echo img("kuleuven.PNG");?>"></a>
-                <a href="http://libis.be/"><img src="<?php echo img("libis_gray.png");?>"></a>
+                  <a href="http://libis.be/"><img src="<?php echo img("libis_gray.png");?>"></a>
+                  <img src="<?php echo img("2020.png");?>">
                 </div>
+                <div class="col-content horizon">
+
+              </div>
               </div>
             </div>
             <?php fire_plugin_hook('public_footer', array('view' => $this)); ?>

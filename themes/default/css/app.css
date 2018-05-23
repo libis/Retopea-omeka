@@ -9911,7 +9911,6 @@ footer #footer-text .footer-row .logo-kadoc img {
 footer #footer-text .footer-row .col-content {
   margin-bottom: 0rem !important;
   padding-bottom: 1rem !important;
-  float: right;
 }
 
 footer #footer-text .footer-row .col-content span {
@@ -9966,6 +9965,14 @@ footer #footer-text .footer-row .col-content p {
   font-size: 0.8rem;
   text-shadow: none;
   font-family: "Roboto", sans-serif;
+}
+
+footer #footer-text .footer-row .horizon {
+  clear: both;
+}
+
+footer #footer-text .footer-row .horizon img {
+  height: 70px;
 }
 
 @media (max-width: 767px) {
