@@ -15,10 +15,10 @@
                   <img src="<?php echo img("retopea.png");?>">
                   <a href="https://kuleuven.be/<?php echo $english;?>"><img src="<?php echo img("kuleuven.PNG");?>"></a>
                   <a href="http://libis.be/"><img src="<?php echo img("libis_gray.png");?>"></a>
-                  <img src="<?php echo img("2020.png");?>">
+                  
                 </div>
                 <div class="col-content horizon">
-
+                  <img src="<?php echo img("2020.png");?>">
               </div>
               </div>
             </div>
